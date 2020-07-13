@@ -1,0 +1,15 @@
+{
+  "name": "@eeriex/cypress-starter",
+  "private": true,
+  "scripts": {
+    "cy": "cypress",
+    "test": "cypress run",
+    "start": "cypress open"
+  },
+  "devDependencies": {
+    "cypress": "^4.10.0",
+    "prettier": "2.0.5",
+    "prettier-plugin-organize-imports": "^1.1.1",
+    "typescript": "^3.9.6"
+  }
+}
